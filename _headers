@@ -1,0 +1,6 @@
+/*
+  Origin: *
+  Access-Control-Allow-Origin: *
+  Access-Control-Request-Method: POST, GET, OPTIONS
+  Access-Control-Request-Headers: X-PINGOTHER, Content-Type
+  
