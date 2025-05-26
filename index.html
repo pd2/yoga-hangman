@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- 
+      This is an HTML comment
+      You can write text in a comment and the content won't be visible in the page
+    -->
+<!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-QLB3KEFJ1D"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-QLB3KEFJ1D');
+    </script>
+    
+    <meta charset="utf-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1" >
+    
+    <link rel="icon" href="https://cdn.glitch.global/9fcaeb22-d52b-455e-bcc8-820c4a9fd067/icon.png" >
+    <link rel="manifest" href="/manifest.json" >
+
+    <!--
+      This is the page head - it contains info the browser uses
+      Like the title, which appears on the browser tab but not inside the page
+      Further down you'll see the content that displays in the page
+    -->
+    <title>Yoga Hangman!</title>
+
+    <!-- The website stylesheet -->
+    <link rel="stylesheet" href="/style.css" >
+
+    <!-- The website JavaScript file -->
+    <!-- <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.2.0/dist/confetti.browser.min.js"></script>
+    <script src="/script.js" defer></script>
+    
+  </head>
+  
+  <body>
+    <h1> Yoga Hangman! </h1>
+  <p id="info">Guess the benefit of this Asana</p>
+  <main id="app" @keyup="handleKeyPress">
+    <div class="container">
+      <div id="pose" >
+      <img id="image" class="mx-auto" v-bind:src="path + file + '.png'" > </div>
+      <p id="quote" :class="{ 'strike': strikeout, 'highlight': puzzleComplete }">
+        <redit> 
+          {{ lead }}
+        </redit>
+        <br>
+        <span v-for="word in splitQuote">
+          <template v-for="letter in word">{{ isRevealed(letter) }}</template>
+        </span>
+        <small > <!-- v-if="gameOver" -->
+          Asana — {{ asana }}
+        </small>
+      </p>
+
+      <div class="status">
+        <h2>Strikes:</h2>
+        <ul class="status">
+          <li v-for="strike in strikes">{{ strike.icon }}</li>
+        </ul>
+      </div>
+
+      <div id="button-board">
+        <button
+          v-for="letter in letters"
+          @click="guess(letter)"
+          :class="{'strike': badGuesses.includes(letter), 'highlight': guesses.includes(letter)}"
+          :disabled="guesses.includes(letter) || gameOver"
+        >
+          <span class="letter" :class="{'riser': guesses.includes(letter)}">{{ letter }}</span>
+          <span class="background"></span>
+        </button>
+      </div>
+
+      <div class="status">
+        <p>{{ message }}</p>
+      </div>
+      
+      <div>
+        
+        <button id="new-game" ref="newGameBtn" @click="newGame" :class="{'highlight': gameOver}">New game</button>
+        <button v-if="share" class="share" onclick="ShareIt()" ref="shareBtn"> Share </button>
+        
+      </div>
+
+    </div>
+    <div id="settings">
+    <span  style="white-space: nowrap">
+      Progression:
+    <input type="radio" id="rand" name="is_rand" value="1"><label for="rand"> Random </label>
+    <input type="radio" id="seq"  name="is_rand" value="0" checked="checked"><label for="seq"> Sequential </label>
+    </span>
+    </div>
+
+  </main>
+    <script>
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", function() {
+          navigator.serviceWorker
+            .register("/serviceWorker.js")
+            .then(res => console.log("service worker registered"))
+            .catch(err => console.log("service worker not registered", err))
+        })
+      }
+    </script>
+  </body>
+    <footer class="footer">
+    <span style="white-space: nowrap"> &copy; 2023 <a href="https://www.pradeepd.com/hobbies/apps">Pradeep D</a>, <a href="https://www.iseek.page">iSeek</a>. Courtesy: Josh Collinsworth; Images: Vinay Siddaiah, yogavijnana.in </span>
+    <br> <a href="https://www.buymeacoffee.com/pradeepde">Buy me a coffee</a>
+    </footer>
+</html>

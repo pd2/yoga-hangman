@@ -1,0 +1,362 @@
+[
+  {
+    "text": "shoulders and Opens the chest.",
+    "lead": "Strengthens the",
+    "asana": "Adhomukha Svanasana",
+    "file": "Adho_Mukha_Svanasana"
+  },
+  {
+    "text": "lower back, quads, and spine.",
+    "lead": "Good for the",
+    "asana": "Adho Mukha Virasana",
+    "file": "Adho_Mukha_Virasana"
+  },
+  {
+    "text": "muscles around waist, hips and abdomen.",
+    "lead": "Tones the",
+    "asana": "Ardha Kati Chakrasana",
+    "file": "Ardha_Kati_Chakrasana"
+  },
+  {
+    "text": "lower back, hip and calf muscles.",
+    "lead": "Strengthens the",
+    "asana": "Ashwa Sanchalanasana",
+    "file": "Ashwa_Sanchalanasana"
+  },
+  {
+    "text": "core and spine. Opens the hip.",
+    "lead": "Strengthens the",
+    "asana": "Badha Konasana",
+    "file": "Badha_Konasana"
+  },
+  {
+    "text": "core muscles, hips and glutes.",
+    "lead": "Strengthens the",
+    "asana": "Bakasana",
+    "file": "Bakasana"
+  },
+  {
+    "text": "spine and core, relieves backpain.",
+    "lead": "Strengthens the",
+    "asana": "Bhujangasana",
+    "file": "Bhujangasana"
+  },
+  {
+    "text": "muscles of our entire body.",
+    "lead": "Stretches the",
+    "asana": "Chathuranga Dhandasana",
+    "file": "Chathuranga_Dhandasana"
+  },
+  {
+    "text": "back. Corrects the body posture.",
+    "lead": "Strengthens the",
+    "asana": "Dhanurasana",
+    "file": "Dhanurasana"
+  },
+  {
+    "text": "hamstrings and calf muscles.",
+    "lead": "Stretches the",
+    "asana": "Halasana",
+    "file": "Halasana"
+  },
+  {
+    "text": "muscles of the abdomen.",
+    "lead": "Stretches and tones the",
+    "asana": "Hasta Uttanasana",
+    "file": "Hasta_Uttanasana"
+  },
+  {
+    "text": "forearms, wrists. Tones the abdomen.",
+    "lead": "Strengthens the",
+    "asana": "Mayurasana",
+    "file": "Mayurasana"
+  },
+  {
+    "text": "core muscles.",
+    "lead": "Strengthens the",
+    "asana": "Navasana",
+    "file": "Navasana"
+  },
+  {
+    "text": "calf, hamstring muscles and spine.",
+    "lead": "Stretches the",
+    "asana": "Parsvottanasana",
+    "file": "Parsvottanasana"
+  },
+  {
+    "text": "entire back and spinal column.",
+    "lead": "Stretches the",
+    "asana": "Paschimothanasana",
+    "file": "Paschimothanasana"
+  },
+  {
+    "text": "triceps, wrists, back, and ankle.",
+    "lead": "Strengthens the",
+    "asana": "Purvottanasana",
+    "file": "Purvottanasana"
+  },
+  {
+    "text": "tones the entire body.",
+    "lead": "Strengthens and",
+    "asana": "Sarvangasana",
+    "file": "Sarvangasana"
+  },
+  {
+    "text": "shoulders, arms, back, and hamstring.",
+    "lead": "Strengthens the",
+    "asana": "Shalabasana",
+    "file": "Shalabasana"
+  },
+  {
+    "text": "blood flow to the brain.",
+    "lead": "Improves the",
+    "asana": "Sirsasana",
+    "file": "Sirasana"
+  },
+  {
+    "text": "abdomen and deep hip flexors.",
+    "lead": "Stretches the",
+    "asana": "Supta Virasana",
+    "file": "Supta_Virasana"
+  },
+  {
+    "text": "back, abdominal organs, shoulders.",
+    "lead": "Strengthens the",
+    "asana": "Urdhva Dhanurasana",
+    "file": "Urdhva_Dhanurasana"
+  },
+  {
+    "text": "entire body, the ankles, and thighs.",
+    "lead": "Stretches the",
+    "asana": "Ustrasana",
+    "file": "Ustrasana"
+  },
+  {
+    "text": "hips and tones the ankles, and thighs.",
+    "lead": "Opens the",
+    "asana": "Utthita Parsvakonasana",
+    "file": "Utthita_Parsvakonasana"
+  },
+  {
+    "text": "side muscles, calf, and hamstring.",
+    "lead": "Strengthens the",
+    "asana": "Uttitha Trikonasana",
+    "file": "Uttitha_Trikonasana"
+  },
+  {
+    "text": "calf muscles. Improves hip mobility.",
+    "lead": "Strengthens the",
+    "asana": "Virabhadrasana I",
+    "file": "Virabhadrasana1"
+  },
+  {
+    "text": "hip joints, tones the knees, and thighs",
+    "lead": "Opens the",
+    "asana": "Virabhadrasana II",
+    "file": "Virabhadrasana2"
+  },
+  {
+    "text": "hip mobility, proprioception, and posture",
+    "lead": "Improves the",
+    "asana": "Virabhadrasana III",
+    "file": "Virabhadrasana3"
+  },
+  {
+    "text": "balance of the body and mind.",
+    "lead": "Improves the",
+    "asana": "Vrikshasana",
+    "file": "Vrikshasana"
+  },
+  {
+    "text": "hip mobility. Opens the hip joints.",
+    "lead": "Improves the",
+    "asana": "Padmasana",
+    "file": "Padmasana"
+  },
+  {
+    "text": "balance. Increases upper body strength.",
+    "lead": "Improves the",
+    "asana": "Adho Mukha Vrikshasana",
+    "file": "Adho_Mukha_Vrksasana"
+  },
+  {
+    "text": "flexibility of the leg muscles.",
+    "lead": "Increases the",
+    "asana": "Akarna Dhanurasana",
+    "file": "Akarna_Dhanurasana"
+  },
+  {
+    "text": "legs, hips and shoulder.",
+    "lead": "Strengthens and stretches the",
+    "asana": "Ardha Baddha Padmotanasana",
+    "file": "Ardha_Baddha_Padmotanasana"
+  },
+  {
+    "text": "lower spine, nerves connected to the legs.",
+    "lead": "Tones the",
+    "asana": "Ardha Chandrasan",
+    "file": "Ardha_Chandrasan"
+  },
+  {
+    "text": "natural alignment of the spine.",
+    "lead": "Restores the",
+    "asana": "Ardha Matsyendrasana",
+    "file": "Ardha_Matsyendrasana"
+  },
+  {
+    "text": "biceps and triceps.",
+    "lead": "Strengthens the",
+    "asana": "Ashtanga Namaskara",
+    "file": "Ashtanga_Namaskara"
+  },
+  {
+    "text": "pain in the knee joints.",
+    "lead": "Relieves the",
+    "asana": "Bhekasana",
+    "file": "Bekasana"
+  },
+  {
+    "text": "love handles and belly fat.",
+    "lead": "Reduces the",
+    "asana": "Bharadvajasana",
+    "file": "Bharadvajasana"
+  },
+  {
+    "text": "hands, wrists, abdominal muscles.",
+    "lead": "Strengthens the",
+    "asana": "Bhuja Pidasana",
+    "file": "Bhuja_pidasana"
+  },
+  {
+    "text": "core, wrists, arms and shoulders.",
+    "lead": "Strengthens the",
+    "asana": "Eka Pada Galavasana",
+    "file": "Eka_Pada_Galavasana"
+  },
+  {
+    "text": "body posture.",
+    "lead": "Improves the",
+    "asana": "Gomukhasana",
+    "file": "Gomukhasana"
+  },
+  {
+    "text": "abdominal muscles.",
+    "lead": "Tones the",
+    "asana": "Hastapadasana",
+    "file": "Hastapadasana"
+  },
+  {
+    "text": "spine, hamstrings and groin.",
+    "lead": "Stretches the",
+    "asana": "Janu Sirsasana",
+    "file": "Janu_Sirsasana"
+  },
+  {
+    "text": "flexibility of the spine and waist.",
+    "lead": "Improves the",
+    "asana": "Kati Chakrasana",
+    "file": "Kati_Chakrasana"
+  },
+  {
+    "text": "biceps and triceps.",
+    "lead": "Tones the",
+    "asana": "Kukkutasana",
+    "file": "Kukkutasana"
+  },
+  {
+    "text": "upper body strength.",
+    "lead": "Builds the",
+    "asana": "Lolasana",
+    "file": "Lolasana"
+  },
+  {
+    "text": "spine and shoulder.",
+    "lead": "Stretches the",
+    "asana": "Marichyasana I",
+    "file": "Marichyasana_1"
+  },
+  {
+    "text": "mobility of shoulder joint.",
+    "lead": "Improves the",
+    "asana": "Marichyasana III",
+    "file": "Marichyasana_3"
+  },
+  {
+    "text": "respiration. Improves posture.",
+    "lead": "Promotes",
+    "asana": "Matsyasana",
+    "file": "Matsyasana"
+  },
+  {
+    "text": "fore arms, wrists and elbows.",
+    "lead": "Strengthens the",
+    "asana": "Padma Mayurasana",
+    "file": "Padma_Mayurasana"
+  },
+  {
+    "text": "calves, hamstring, pelvic region.",
+    "lead": "Stretches the",
+    "asana": "Parighasana",
+    "file": "Parighasana"
+  },
+  {
+    "text": "legs, thighs, calves and ankles.",
+    "lead": "Tones the",
+    "asana": "Parivrtta Parsvakonasana",
+    "file": "Parivrtta_Parsvakonasana"
+  },
+  {
+    "text": "thighs, calf and hamstring muscles.",
+    "lead": "Tones the",
+    "asana": "Parivrtta Trikonasana",
+    "file": "Parivrtta_Trikonasana"
+  },
+  {
+    "text": "relieving gas and constipation.",
+    "lead": "Helps in",
+    "asana": "Pavanamuktasana",
+    "file": "Pavanamuktasana"
+  },
+  {
+    "text": "lower back muscles.",
+    "lead": "Strengthens the",
+    "asana": "Phalakasana",
+    "file": "Phalakasana"
+  },
+  {
+    "text": "sense of balance.",
+    "lead": "Improves the",
+    "asana": "Pincha Mayurasana",
+    "file": "Pincha_Mayurasana"
+  },
+  {
+    "text": "hamstrings, calves, glutes.",
+    "lead": "Stretches the",
+    "asana": "Prasarita Padottanasana",
+    "file": "Prasarita_Padottanasana"
+  },
+  {
+    "text": "backache. Keeps the spine healthy.",
+    "lead": "Relieves the",
+    "asana": "Setu Bandha Sarvangasana",
+    "file": "Setu_Bandha_Sarvangasana"
+  },
+  {
+    "text": "hip flexors.",
+    "lead": "Stretches the",
+    "asana": "Tolasana",
+    "file": "Tolasana"
+  },
+  {
+    "text": "hips, hamstrings, back muscles.",
+    "lead": "Relaxes the",
+    "asana": "Triang Mukhaikapada Paschimottanasana",
+    "file": "Triang_Mukhaikapada_Paschimottanasana"
+  },
+  {
+    "text": "lumbar and coccyx region of the spine.",
+    "lead": "Tones the",
+    "asana": "Vasisthasana",
+    "file": "Vasisthasana"
+  }
+]
