@@ -34,7 +34,7 @@ const app = new Vue({
     gameOver: false }),
 
   mounted() {
-    fetch('/asanas.txt').
+    fetch('asanas.txt').
     then(response => response.json()).
     then(fetchedQuotes => {
       fetchedQuotes = fetchedQuotes.filter(quote => quote.text.length <= maxLength); // Get rid of any quotes that are too long
