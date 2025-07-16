@@ -217,7 +217,7 @@ let copyText;
 
 function ShareIt() {
   
-  let linkURL = "https://pd2.github.io/yoga-hangman/"; // window.location.href;//
+  let linkURL = window.location.href;
   
   copyText = `#Yoga-Hangman I learnt the benefit of ${app.asana} in ${Math.round(elapsedTime/1000)} sec at ${linkURL}`;
   
