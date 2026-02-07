@@ -26,7 +26,7 @@ const app = new Vue({
     benefit: '', //Filled by the mounted hook
     asana: '',
     lead: '',
-    path:'https://cdn.glitch.global/9fcaeb22-d52b-455e-bcc8-820c4a9fd067/',
+    path:'assets/',
     file: '',
     guesses: [],
     strikes: [...defaultStrikes],
