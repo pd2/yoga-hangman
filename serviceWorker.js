@@ -1,5 +1,5 @@
 const staticDev = "yogahangman"
-const service_worker_version = "v1.55"
+const service_worker_version = "v1.6"
 const assets = [
   "/",
   "index.html",
